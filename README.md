@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-This project has been moved to gitlab, https://r-roms.gitlab.io/megathread/
-=======
 # Svelte library
 
 Everything you need to build a Svelte library, powered by [`sv`](https://npmjs.com/package/sv).
@@ -59,4 +56,3 @@ To publish your library to [npm](https://www.npmjs.com):
 ```sh
 npm publish
 ```
->>>>>>> Stashed changes
